@@ -6,7 +6,7 @@
   .header{
     height: 100vh;
     width: 100%;
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(sbu.png);
+    /*background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(sbu.png);*/
     background-position: center;
     background-size: cover;
     color:white;
@@ -72,93 +72,4 @@ nav ul li{
         }
             
                 
-        .box1 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box1:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
-        .box2 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box2:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
-        .box3 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box3:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
-        .box4 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box4:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
-        .box5 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box5:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
-        .box6 {
-            width: 150px;
-            height:50px;
-            margin: 10px ;
-            background-color: #2792da;
-            color: black;
-            text-align: center;
-            line-height: 50px;
-            font-size: 25px;
-        }
-        .box6:hover{
-            background: white;
-            color: black;
-            transition: 0.5s;
-        }
+      
