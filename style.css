@@ -24,6 +24,7 @@
     display: inline;
     list-style: none;
     flex: 1;
+    color: black;
   }
 nav ul li{
     display: inline-block;
@@ -33,6 +34,7 @@ nav ul li{
 .main-text{
     margin: 0;
     text-align: center;
+    
 }
 .main-text h1{
     font-size: 50px;
@@ -47,6 +49,7 @@ nav ul li{
     height: 35px;
     margin: 25px auto;
     color: rgb(0, 0, 0);
+    background-color:bisque;
     line-height: 35px;
     border: 1px solid white;
 }
