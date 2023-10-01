@@ -64,7 +64,7 @@ nav ul li{
             color: black;
             text-align: center;
             line-height: 50px;
-            font-size: 25px;
+            font-size: 15px;
         }
         .box:hover{
             background: white;
@@ -73,4 +73,21 @@ nav ul li{
         }
             
                 
-      
+#main{
+  position: relative;
+      }
+#left{
+  position: absolute;
+  margin-left: 10%;
+}
+#mideel{
+  position: absolute;
+  margin-left: 50%;
+}
+
+
+#right{
+position: absolute;
+float: right;
+margin-left: 80%;
+}
