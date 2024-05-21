@@ -94,3 +94,7 @@ position: absolute;
 float: right;
 margin-left: 80%;
 }
+#logo{
+  height: 50px;
+  width: 50px;
+}
